@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhinitk045@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact ***I am funny***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

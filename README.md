@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **B.Tech, CSE**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/profile/view?id=ADoAAEAfuH8BHrP-MAjlLvPV13E_guOCe5JB3OI&trk=nav_responsive_tab_profile_pic](https://www.linkedin.com/profile/view?id=ADoAAEAfuH8BHrP-MAjlLvPV13E_guOCe5JB3OI&trk=nav_responsive_tab_profile_pic)
-
+- 👨‍💻 All of my projects are available at. https://github.com/AbhinitRandhir
 - 📫 How to reach me **abhinitk045@gmail.com**
 
-- ⚡ Fun fact ***I am funny***
+- ⚡ Fun fact ***I am funny boy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
